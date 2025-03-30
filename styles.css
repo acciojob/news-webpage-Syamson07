@@ -19,9 +19,18 @@ h1{
             margin: 20px;
 .one{
 	background-color:white;
-	width:
-	padding:1px;
 	text-align:center;
+	width: 45%;
+    padding: 20px;
+    border-radius: 5px;
+}
+.one ul{
+	 list-style-type: none;
+            padding: 0;
+}
+.one li{
+	padding: 10px;
+    border-bottom: 1px solid #ccc;
 }
 .two{
 	background-color:white;
@@ -30,11 +39,10 @@ h1{
 	text-align:center;
 }
 .three{
-	background-color:white;
-	background-size:10%
-	background-position:top right;
-	width:
-	padding:1px;
-	text-align:center;
-	
+text-align: center;	
+}
+.three img{
+	width: 40%;
+    margin: 10px;
+    border-radius: 5px;
 }
